@@ -1,0 +1,20 @@
+colp_colh_mappings = {
+        "GS-OTC-COLP": 431007,
+        "BOA-OTC-COLP": 384476,
+        "MSC-OTC-COLP": 384474,
+        "RBOC-OTC-COLP": 384475,
+        "BNP-OTC-COLP": 431008,
+        "SSB-OTC-COLP": 431006,
+        "JPM-OTC-COLP": 431005,
+        "BB-OTC-COLP": 431009,
+        "JPM-OTC-COLH": 431897,
+        "BB-OTC-COLH": 431899,
+        "GS-OTC-COLH": 431894,
+        "BNP-OTC-COLH": 431895,
+        "SSB-OTC-COLH": 431901,
+        "BOA-OTC-COLH": 431900,
+        "RBOC-OTC-COLH": 431896,
+        "MSC-OTC-COLH": 431898,
+        "MSC-F-COLP": 276688,
+        "CB-OTC-COLH": 276690
+    }
